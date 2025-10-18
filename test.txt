@@ -1,1 +1,1 @@
-city : babgalore
+city : bangalore
